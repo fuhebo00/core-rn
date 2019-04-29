@@ -1,5 +1,5 @@
 function cr() {
-    return 2;
+    return 3;
 }
 
 module.exports = cr;
